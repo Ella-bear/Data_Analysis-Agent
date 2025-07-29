@@ -9,6 +9,7 @@ Built with Flask and leveraging the Groq API with Llama-3, this application auto
 
 Key Features:
 🔍 Natural language data queries
+
 📁 CSV/Excel file processing
 🤖 AI-generated pandas code execution
 📊 Interactive data visualization
