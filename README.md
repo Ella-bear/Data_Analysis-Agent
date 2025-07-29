@@ -1,6 +1,7 @@
 📊 AI Analysis Bot 
-//
+
 🌟 Project Overview
+
 AI Analysis Bot is a powerful tool that allows users to upload datasets and perform natural language queries to gain insights.
 Built with Flask and leveraging the Groq API with Llama-3, this application automatically generates and executes pandas code to answer complex data questions in seconds.
 
