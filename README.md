@@ -39,16 +39,15 @@ Try these with the diabetes.csv dataset:
 
 🛠️ Tech Stack
 
-Framework: Flask
+Python 🐍
 
-AI Engine: Groq + Llama-3-70b
+Pandas 📊
 
-Data Processing: pandas
+Groq/OpenAI LLM 🤖
 
-Frontend: HTML/CSS + Tailwind-like styling
+Flask for UI
 
-Data Visualization: pandas HTML tables
-
+Prompt engineering for data analysis
 
 📌 Contributing
 
