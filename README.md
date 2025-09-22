@@ -53,5 +53,5 @@ Prompt engineering for data analysis
 
 Feel free to fork this project, open issues, or submit pull requests. Let’s empower local experts together!
 
-Built with ❤️ to mpowering local businesses with AI-driven insights 🤖.
+Built with ❤️ to empowering local businesses with AI-driven insights 🤖.
 
